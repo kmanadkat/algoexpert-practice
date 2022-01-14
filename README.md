@@ -9,3 +9,6 @@ Practicing Coding Questions From Algoexpert
   - Dictionary Memoization Recursive
   - Dictionary Memoization Loop Solution
   - Constant Space Memoization Loop Solution
+
+- [x] Special Product Sum
+  - Recursive Solution
