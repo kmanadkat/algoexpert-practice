@@ -12,3 +12,6 @@ Practicing Coding Questions From Algoexpert
 
 - [x] Special Product Sum
   - Recursive Solution
+
+- [x] Permutations
+  - Recursive Solution
