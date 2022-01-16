@@ -15,3 +15,7 @@ Practicing Coding Questions From Algoexpert
 
 - [x] Permutations
   - Recursive Solution
+
+- [x] Powerset (find all subsets)
+  - Recursive Solution
+  - Iterative Solution
