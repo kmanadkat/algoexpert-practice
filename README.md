@@ -19,3 +19,6 @@ Practicing Coding Questions From Algoexpert
 - [x] Powerset (find all subsets)
   - Recursive Solution
   - Iterative Solution
+
+- [x] Phone Number Mnemonic
+  - Recursive Solution
